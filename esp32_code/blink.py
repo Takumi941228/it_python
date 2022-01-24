@@ -3,9 +3,8 @@ from machine import Pin
 
 led = Pin(27, Pin.OUT)        
 
-def run():
-    for i in range(10):
-        led.value(1)
-        time.sleep(1)
-        led.value(0)
-        time.sleep(1)
+while True:
+    led.on()
+    time.sleep(1)
+    led.off()
+    time.sleep(1)
