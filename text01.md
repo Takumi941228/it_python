@@ -22,7 +22,7 @@ IDE, ESP32-DevKit-C等の環境構築を行います.
 
 Google Colaboratory（グーグル・コラボラトリ）とは,Google社が機械学習の教育及び研究用に提供しているインストール不要かつ,すぐにPythonや機械学習・深層学習の環境を整えることが出来る無料のサービスです.Colab（コラボ）とも呼ばれます.無料で利用する事が出来ますが,Googleアカウントが必要になります.
 
-![コラボラトリ](images/image02.png)
+![コラボラトリ](images/image03.png)
 
 Colaboratoryでは,Python等をWeb上で記述および実行できる統合開発環境であるJupyter Notebookが採用されており,Googleアカウントだけで利用できるサービスとなっています.
 
