@@ -19,7 +19,7 @@ Silicon Labs CP210x driverを使用するOSから以下のアドレスよりダウンロードしてイン
 - [macOS](https://www.silabs.com/documents/public/software/Mac_OSX_VCP_Driver.zip)
 - [Linux](https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/drivers/CP210x_VCP_Linux.zip)
 
-![ドライバ](images/image01.png)
+![ドライバ](images/image05.png)
 
 ## Visual Studio Codeセットアップ
 
