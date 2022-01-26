@@ -36,7 +36,7 @@ Jupyter Notebook‚Æ‚Í,‹@ŠBŠwK‚È‚Ç‚Ìƒf[ƒ^•ªÍ‚Ég—p‚³‚ê‚é‚±‚Æ‚ğ‘z’è‚³‚ê‚Ä‚¨‚è, ƒ
 
 ## Colaboratory‚Ì—˜—pŠJn
 
-Colaboratory‚ğ—˜—pŠJn‚·‚é‚½‚ß‚É‚Í,Webƒy[ƒW‚ÖƒƒOƒCƒ“‚µ‚Ü‚·.ƒuƒ‰ƒEƒU‚Å'https://www.google.com/intl/ja/account/about/'‚Æ“ü—Í‚µ,GoogleƒAƒJƒEƒ“ƒg‚ÅƒƒOƒCƒ“‚µ‚Ü‚·.
+Colaboratory‚ğ—˜—pŠJn‚·‚é‚½‚ß‚É‚Í,Webƒy[ƒW‚ÖƒƒOƒCƒ“‚µ‚Ü‚·.ƒuƒ‰ƒEƒU‚Å'https://www.google.com/intl/ja/account/about/' ‚Æ“ü—Í‚µ,GoogleƒAƒJƒEƒ“ƒg‚ÅƒƒOƒCƒ“‚µ‚Ü‚·.
 
 ## ƒm[ƒgƒuƒbƒN‚ğŠJ‚­
 
